@@ -1,0 +1,232 @@
+
+.team h1{
+  color: red;
+  margin-left: 25px;
+  border-color: red;
+}
+.team table {
+    margin: auto;
+    text-align: center;
+    border-spacing: 30px;
+  }
+  
+  .team td img {
+    width: 200px;
+    border-radius: 10px;
+  }
+
+
+  /* $$$ */
+
+  .contactpage {
+    color:  #1299FA;
+  }
+  
+  
+  .contactpage h1 {
+    margin-left: 2px; 
+    margin-bottom: 3vh;
+    color: #1299FA;
+    background-color: aliceblue;
+    border-color: #1299FA;
+    padding: 3px;
+
+    
+  }
+  
+  .contact-form {
+    width: 80%;
+    padding: 2em;
+    border-radius: 15px;
+    background-image: url('../images/contact.avif');
+    background-position: center;
+    background-size: contain;
+  }
+  
+  .contact-form label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .contact-form input[type="text"],
+  .contact-form input[type="email"],
+  .contact-form textarea {
+    width: 50%;
+    line-height: 2em;
+    margin-bottom: 1em;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .contact-form input[type="submit"] {
+    width: 50%;
+    background-color:#1299FA;
+    color: white;
+    border: none;
+    padding: 1em;
+    margin: 1em;
+    margin-left: 20%;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .contact-form input[type="submit"]:hover {
+    background-color:#12fa63;
+  }
+  
+/*  */
+
+.telmieux img {
+height: 37em;
+margin-left: -100px; 
+}
+
+/*     */
+.imgquiztuto{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+aside img.quiz{
+  height:15em;
+ margin-top: 13%;
+
+}
+aside img.tuto{
+height: 20em;
+}
+
+/*   */ 
+
+.tutopage h1{
+  color: rgb(9, 255, 0);
+  border-color: rgb(30, 255, 0);
+  margin-bottom: 3vh;
+}
+.tutopage h2{
+  color: rgb(9, 255, 0);
+  
+}
+.tutopage h3 {
+  color: rgb(255, 251, 0);
+}
+.buttonquiz{
+  margin-left: 200px;
+}
+
+/*   */ 
+
+.presentationpage h1{
+  color: rgb(17, 0, 255);
+  border-color: rgb(55, 0, 255);
+  margin-bottom: 3vh;
+}
+.presentationpage h2{
+  
+  color: rgb(0, 225, 255);
+
+}
+.presentationas{
+  display: flex;
+  flex-wrap: wrap;
+}
+aside img.interro{
+  height:10em;
+  margin-top: 6em;
+
+}
+aside img.objectif{
+height: 15em;
+margin-bottom: 17em;
+}
+/*  */
+
+.missionpage h1{
+  color: rgb(255, 0, 149);
+  border-color: rgb(234, 0, 255);
+}
+.missionpage h2{
+  color: rgb(255, 0, 149) ;
+}
+
+
+/*   */
+
+.assocepage h1 {
+  color: violet;
+  border-color: rgb(234, 0, 255);
+  }
+  
+.assocepage h2{
+color: rgb(255, 0, 149);
+  }
+.assocepage a{
+  text-decoration: none;
+  color: green;
+}
+.assocepage img{
+  height: 10em;
+  margin: 5%;
+}
+#lightbox {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+#lightbox img {
+  max-width: 90%;
+  max-height: 80vh;
+}
+
+#close {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  width: 30px;
+  cursor: pointer;
+}
+
+/*    */ 
+.login{
+  color: rgb(185, 32, 32);
+
+}
+.formlogin {
+  max-width: 400px;
+  margin: 5% ;
+  padding: 30px;
+  background-color: #111827;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.formlogin input {
+  padding: 10px;
+  border-radius: 5px;
+ 
+}
+
+.formlogin button {
+  background-color: #1299FA;
+  color: white;
+  font-weight: bold;
+  padding: 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.formlogin button:hover {
+  background-color: #12fa63;
+}

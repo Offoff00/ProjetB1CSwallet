@@ -1,4 +1,4 @@
-#  B1CS.WALLET – Projet PHP EFREI
+#  B1CS.WALLET – Projet PHP EFREI BY MAZOUZ ELYAS ; SLI RAMI ; BENSAID CAMILLE
 
 Bienvenue sur **B1CS.Wallet**, un projet fictif réalisé dans le cadre du Bachelor 1 en Cybersécurité (B1CS) à l'EFREI.
 

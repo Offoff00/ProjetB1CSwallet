@@ -32,7 +32,7 @@
 
   <h3>2. Qui contrôle les cryptomonnaies ?</h3>
   <label><input type="radio" name="reponse2" value="a"> La Banque Centrale Européenne </label><br>
-  <label><input type="radio" name="reponse2" value="b"> Le gouvernement français 🇫</label><br>
+  <label><input type="radio" name="reponse2" value="b"> Le gouvernement français </label><br>
   <label><input type="radio" name="reponse2" value="c"> Personne, elles sont décentralisées </label><br><br>
 
   <h3>3. Quelle est une crypto connue ?</h3>
